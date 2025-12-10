@@ -7,7 +7,7 @@ This is a 3D printed phone stand that has a honeycomb design pattern. It feature
 ## CAD
 |Phone Stand|Assembly|
 |---|---|
-|![Image](assets\PhoneStand.png)|![Image](assets/Assembly.png)|
+|![Image](assets/PhoneStand.png)|![Image](assets/Assembly.png)|
 
 ## Final Thoughts
 I discovered a new tool today! SolidWorks has a "Fill Pattern" tool built into it, it made the process of placing the hexagons down way easier, and I'm definitely going to use it for my future projects.
