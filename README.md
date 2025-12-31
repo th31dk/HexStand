@@ -1,5 +1,7 @@
 # HexStand
-This is a 3D printed phone stand that has a honeycomb design pattern. It features support for charging while placed on the phone stand.
+HexStand is a 3D printable phone stand. It features a stylish honeycomb design and a slot on the bottom for a charger. 
+
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/23e75193-6ccd-4cc9-b283-f02144866046" />
 
 ## Bill of Materials
 121.33g PLA - Color of Choice
